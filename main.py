@@ -25,7 +25,7 @@ Endpoints:
 from typing import List, Optional
 
 import pandas as pd
-import ta.momentum
+import ta.momentum 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
